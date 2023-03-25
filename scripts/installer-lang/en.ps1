@@ -1,7 +1,8 @@
 [PSCustomObject]@{
     Welcome         = "
 ╔══════════════════════════════╗
-║  Spotify Premium  @rynnchn_  ║
+║        Spotify Premium       ║
+║         cr : @rynnchn_       ║              
 ╚══════════════════════════════╝"
     Incorrect       = "Oops, an incorrect value,"
     Incorrect2      = "enter again through "
