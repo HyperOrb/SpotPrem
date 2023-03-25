@@ -247,7 +247,7 @@ function CallLang($clg) {
     [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
     $urlLang = "https://raw.githubusercontent.com/HyperOrb/SpotPrem/main/scripts/installer-lang/$clg.ps1"
     $ProgressPreference = 'SilentlyContinue'
-    
+   
     try {
 (Invoke-WebRequest -useb $urlLang).Content | Invoke-Expression 
     }
