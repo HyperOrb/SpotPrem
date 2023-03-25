@@ -3,7 +3,8 @@
 ╔══════════════════════════════╗
 ║        Spotify Premium       ║
 ║         cr : @rynnchn_       ║              
-╚══════════════════════════════╝"
+╚══════════════════════════════╝
+Y 2 kali baru N yg terakhir"
     Incorrect       = "Oops, an incorrect value,"
     Incorrect2      = "enter again through "
     Download        = "Error downloading"
